@@ -1,4 +1,5 @@
-# G2_DBMS
+# Date:
+# Aim
 To create a student database and execute DDL queries using SQL.
 
 
